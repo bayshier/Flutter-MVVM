@@ -26,7 +26,7 @@ class _LoginViewState extends State<LoginView> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text("MVVM学习"),
+        title: const Text("MVVM"),
       ),
       body: Center(
         child: Column(
